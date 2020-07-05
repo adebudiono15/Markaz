@@ -1,2 +1,2 @@
 # Markaz
-Markaz CCTV Laravel
+Markaz CCTV Laravel (HOSTING)
